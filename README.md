@@ -1,6 +1,6 @@
 # Bhuvi Bhardwaj
 
-ML researcher
+ML researcher 
 Interested in why models fail, not just when.
 
 Currently: building the **Domino Effect** framework —
