@@ -14,6 +14,7 @@ through neural networks via GradCAM-based drift metrics.
 - [`monte-carlo-visualizer`](https://github.com/bhuvibhardwaj/monte-carlo-visualizer) — interactive simulation dashboard
 - [`backpropagation-visualizer`](https://github.com/bhuvibhardwaj/backpropagation-visualizer) — live gradient flow during training
 - [`MiniGPT`](https://github.com/bhuvibhardwaj/MiniGPT) — GPT from scratch in PyTorch on Tiny Shakespeare
+- [`NanoGPT`](https://github.com/bhuvibhardwaj/NanoGPT) — Decoder Based Transformer from Scratch (33M parameters)
 
 ---
 
