@@ -10,10 +10,10 @@ through neural networks via GradCAM-based drift metrics.
 ---
 
 **active repos**
-- [`ml-failure-proofs`](link) — research on attribution drift under distribution shift
-- [`monte-carlo-visualizer`](link) — interactive simulation dashboard
-- [`backpropagation-visualizer`](link) — live gradient flow during training
-- [`MiniGPT`](link) — GPT from scratch in PyTorch on Tiny Shakespeare
+- [`ml-failure-proofs`](https://github.com/bhuvibhardwaj/ml-failure-proofs) — research on attribution drift under distribution shift
+- [`monte-carlo-visualizer`](https://github.com/bhuvibhardwaj/monte-carlo-visualizer) — interactive simulation dashboard
+- [`backpropagation-visualizer`](https://github.com/bhuvibhardwaj/backpropagation-visualizer) — live gradient flow during training
+- [`MiniGPT`](https://github.com/bhuvibhardwaj/MiniGPT) — GPT from scratch in PyTorch on Tiny Shakespeare
 
 ---
 
